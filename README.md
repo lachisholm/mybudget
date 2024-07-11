@@ -61,3 +61,11 @@ The core functionality of the myBudget Tracker is implemented in the `myBudgetTr
   - `setup_budget()`: Sets up the budget type (Real or Projected). This method guides the user through the initial budget setup process.
   - `handle_real_budget()`: Handles the setup for a real budget. It prompts the user to enter actual income details.
   - `handle_projected_budget()`: Handles the setup for a projected budg
+
+## For Further information
+
+### Contact me @
+
+#### Lora Chisholm
+
+#### loraperrychisholm@gmail.com
